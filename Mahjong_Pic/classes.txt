@@ -1,0 +1,23 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+St1
+St2
+St3
+St4
+St5
+St6
+St8
+St9
