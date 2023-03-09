@@ -1,0 +1,13 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ./mydataset/train.txt
+val: ./mydataset/val.txt
+test:
+
+# number of classes
+nc: 42
+
+# class names
+names: [ 'St1' , 'St2' , 'St3' , 'St4' , 'St5' , 'St6' , 'St8' , 'St9' ,
+ 'Th1' , 'Th2' , 'Th3' , 'Th4' , 'Th5' , 'Th6' , 'Th7' , 'Th8' , 'Th9' ,
+ 'Ton1' ,'Ton2' , 'Ton3' , 'Ton4' , 'Ton5' , 'Ton6' , 'Ton7' , 'Ton8' , 'Ton9' , 
+ 'Ea' , 'So' , 'We' , 'No' , 'Mi' , 'Pha' , 'Wb' , 'PL1' , 'OR2' , 'CH3' , 'BA4' , 'SP1' , 'SU2' , 'AU3' , 'WI4', 'St7' ]
